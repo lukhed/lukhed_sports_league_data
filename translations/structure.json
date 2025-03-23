@@ -1,5 +1,6 @@
 {
   "nfl": [
+    "supportedProviders.json",
     "providerKey.json",
     "seasonKey.json"
     "twitter.json", 
