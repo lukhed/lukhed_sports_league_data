@@ -1,0 +1,17 @@
+{
+  "nfl": [
+    "twitter.json", 
+    "schedule.json", 
+    "rapid.json", 
+    "providerKey.json", 
+    "proFootballReference.json", 
+    "ofp.json", 
+    "next gen stats.json", 
+    "logoFiles.json", 
+    "fantasy pros.json", 
+    "espn.json", 
+    "dk.json", 
+    "colors.json", 
+    "action.json"
+  ]
+}
