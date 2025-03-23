@@ -3,17 +3,17 @@
     "supportedProviders.json",
     "providerKey.json",
     "seasonKey.json"
-    "twitter.json", 
-    "schedule.json", 
+    "twitter.json",
+    "schedule.json",
     "rapid.json",
-    "proFootballReference.json", 
-    "ofp.json", 
-    "next gen stats.json", 
-    "logoFiles.json", 
-    "fantasy pros.json", 
-    "espn.json", 
-    "dk.json", 
-    "colors.json", 
+    "proFootballReference.json",
+    "ofp.json",
+    "next gen stats.json",
+    "logoFiles.json",
+    "fantasy pros.json",
+    "espn.json",
+    "dk.json",
+    "colors.json",
     "action.json"
   ]
 }
