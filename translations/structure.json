@@ -1,9 +1,10 @@
 {
   "nfl": [
+    "providerKey.json",
+    "seasonKey.json"
     "twitter.json", 
     "schedule.json", 
-    "rapid.json", 
-    "providerKey.json", 
+    "rapid.json",
     "proFootballReference.json", 
     "ofp.json", 
     "next gen stats.json", 
